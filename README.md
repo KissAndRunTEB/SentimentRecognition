@@ -1,4 +1,4 @@
-# Sentiment Analysis
+# Sentiment Recognition
 
 
 ## Description
@@ -57,7 +57,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd SentimentRecognition5
+  cd SentimentRecognition
 ```
 
 Setup and activate environment.
