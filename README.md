@@ -3,7 +3,7 @@
 
 ## Description
 
-App creates, trains, and evaluates a sentiment analysis model using TensorFlow/Keras.
+Sentiment Recognition (AI + Python + Flask + Tensorflow + Pandas + Numpy). App creates, trains, and evaluates a sentiment analysis model using TensorFlow/Keras.
 The model is designed to predict sentiment (negative, neutral, positive) based on text input.
 App works in two mods.
 1. Console application that let you check sentiment on any provided text.
